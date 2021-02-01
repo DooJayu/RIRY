@@ -6,7 +6,7 @@ import datetime
 import os
 
 # To get Variables for setting up RIRY
-with open("data/BotSetup.json", 'r', encoding="utf8") as jsonf:
+with open("test/BotSetup.json", 'r', encoding="utf8") as jsonf:
     BotSetup = json.load(jsonf)
 
 # Setting up the bot prefix for server usage

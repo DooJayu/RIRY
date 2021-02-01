@@ -1,5 +1,6 @@
 {
     "PREFIX": "",
     "TOKEN": "",
+    "FINNHUB_API": "",
     "STATUS": ["Multiple", "Statuses", "Loop"]
 }
